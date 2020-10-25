@@ -82,9 +82,6 @@ insert(value)
 
 ##END
 
-##heap정렬
-##END
-
 ##병합정렬
 #메모: 중앙위치값을 기준으로 왼쪽, 오른쪽 array 내에서 정렬 후 합침
 def mergeSort(arr):
