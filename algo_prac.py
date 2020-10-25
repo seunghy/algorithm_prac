@@ -7,6 +7,12 @@ Created on Sat Sep 19 10:32:53 2020
 
 import numpy as np
 
+##heap정렬
+#참고) import heapq -> heapq.heapify
+
+##END
+
+
 ##Bubble 정렬
 #메모: 결론적으로 반복하면서 주어진 리스트 내에서 가장 작은 숫자를 차례대로 앞으로 옮기는 과정
 def bubble(data):
